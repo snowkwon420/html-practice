@@ -1,0 +1,25 @@
+body {
+  background-image: url(./images/bg.png);
+}
+
+section {
+  width: 300px;
+  margin: auto;
+}
+
+.ground {
+  background: rgb(125, 57, 34);
+  height: 300px;
+  border-radius: 0 0 15px 15px;
+  box-shadow: 0 10px 1px rgb(60, 29, 18);
+}
+
+.ground h1,
+p {
+  margin: 15px;
+  color: white;
+}
+
+.ground p {
+  color: rgba(255, 252, 252, 0.658);
+}

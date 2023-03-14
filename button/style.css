@@ -1,0 +1,18 @@
+section {
+  width: 413px;
+  height: 192px;
+  box-sizing: border-box;
+}
+
+div:nth-child(odd) {
+  background: #eeeeee;
+}
+
+div {
+  display: flex;
+  gap: 24px;
+}
+button p {
+  font-size: 10px;
+  margin-left: 12px;
+}
